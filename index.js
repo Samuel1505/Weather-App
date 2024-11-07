@@ -43,4 +43,4 @@ app.post('/weather', async (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
-});wqq3 
+});
