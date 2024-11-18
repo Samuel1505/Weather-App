@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #00b4db, #0083b0);
+    background: linear-gradient(135deg, #161c1e, #25292a);
     min-height: 100vh;
     padding: 20px;
 }
@@ -43,7 +43,7 @@ input {
 
 button {
     padding: 10px 20px;
-    background-color: #0083b0;
+    background-color: #585a5a;
     color: white;
     border: none;
     border-radius: 5px;
